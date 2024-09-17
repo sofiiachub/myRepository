@@ -1,0 +1,13 @@
+
+
+print("\n \t <<A beautiful tale about two cats>>")
+
+print("\n The girl Rebecca had two cats. One orange and one black.")
+
+nameFirstCat, nameSecondCat = input("Their name was " ).split()
+print(f" When giving a name to her cats, the girl thought how many letters would be in the cat's name, how many years the cat would be. Therefore {nameFirstCat} was {len(nameFirstCat)} years old and {nameSecondCat} was {len(nameSecondCat)} years old.")
+
+print(f" The first cat {nameFirstCat} liked autumn because it was orange. The second cat {nameSecondCat} liked the night because it was black.")
+input("And the Rebecca loved her ")
+input(""" Every night when she put them to bed she said: "I love you" 
+      and they said: """)
